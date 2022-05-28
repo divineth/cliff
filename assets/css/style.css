@@ -362,6 +362,11 @@ a {
     margin-left: -20px;
 }
 
+.hero__btns{
+    display: flex;
+    gap: 20px;
+}
+
 /*---------------------- Hero area end ----------------------*/
 
 
